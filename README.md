@@ -11,7 +11,7 @@
 
 
 ## add
-- [ x ] PvP	
+- [x] PvP	
 - [ x ] 
 
 - [ x ] BetterAI	 
