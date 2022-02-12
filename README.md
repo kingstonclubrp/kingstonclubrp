@@ -22,7 +22,7 @@ This fivem server is free for everyone and always will be. If you like this proj
 
 ## How does it work?
 
-please make sure you have a full copy of [**GTA**](https://store.rockstargames.com/en/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition?_gl=1*h74ndd*_ga*MTM5NzQ3OTEzNi4xNjQ0NjMwNTE3*_ga_PJQ2JYZDQC*MTY0NDYzMDUxNi4xLjEuMTY0NDYzMDUxNy4w) and [**fivem**](https://fivem.net/) then go to our [**website**](https://kingstonclubrp.com/) you can either download the launcher or click join now it should be a little pop up sing open fivem connect.
+please make sure you have a full copy of [**GTA**](https://store.rockstargames.com/en/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition?_gl=1*h74ndd*_ga*MTM5NzQ3OTEzNi4xNjQ0NjMwNTE3*_ga_PJQ2JYZDQC*MTY0NDYzMDUxNi4xLjEuMTY0NDYzMDUxNy4w) and [**fivem**](https://fivem.net/) then go to our [**website**](https://kingstonclubrp.com/) you can either download the launcher or click join now it should be a little pop up sing open fivem connect..
 
 
 ## Version
