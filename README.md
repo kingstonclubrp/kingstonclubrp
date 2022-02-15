@@ -1,6 +1,8 @@
 <div align="center">
   <img src=https://i.imgur.com/I1R95V0.png" align="center">
   <br>
+   </strong>GTA IP: :  {F8} | connect join.kingstonclubrp.com</strong></strong>
+                                                    
   <strong><i>server updates fivem.</i></strong>
   <br>
   <br>
@@ -11,7 +13,7 @@
 <br>
 <img src='https://i.imgur.com/sQxGMLA.jpg' align='center' width=500>
 </div>
-
+                                                                                                                                               
 
 ## What is fivm?
 
