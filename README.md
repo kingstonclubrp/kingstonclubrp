@@ -30,9 +30,7 @@ please make sure you have a full copy of [**GTA**](https://store.rockstargames.c
 | Version | Supported          | link          |
 | ------- | ------------------ | ------------------ |
 | < 4.0   | :x:                |[Patreon](https://github.com/kingstonclubstudio/kingstonclubrp/releases) |
-| 5.0.x   | :x:                |[Patreon](#) |
 | 4.0.x   | :white_check_mark: |[Patreon](#) |
-| < 4.0   | :x:                |[Patreon](#) |
 
 
 ## Beta reports
