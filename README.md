@@ -36,5 +36,5 @@ please make sure you have a full copy of [**GTA**](https://store.rockstargames.c
 
 
 ## Beta reports
-please report all bugs and glitches on [here](https://github.com/kingstonclubstudio/kingstonclubrp/pulls)
+please report all bugs and glitches on [here](https://github.com/kingstonclubstudio/kingstonclubrp/pulls).
                                                                                                                                               
